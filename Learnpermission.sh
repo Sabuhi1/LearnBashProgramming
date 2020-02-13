@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #In this script, just we want to check file permissions with helps of some arguments.
-#You can know with helps of "<ls -l>".But we want to learn Bash for automation.
+#You can try with helps of "<ls -l>" instead of this script.But we want to learn Bash for automation.
 #You learn permissions for user that you are logged in.
 
 if [ $# -ne 1 ];
